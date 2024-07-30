@@ -10,6 +10,7 @@ scipy = "*"
 scikit-learn = "*"
 pandas = "*"
 seaborn = "*"
+mne = "*"
 
 [dev-packages]
 ipykernel = "*"
