@@ -11,6 +11,7 @@ scikit-learn = "*"
 pandas = "*"
 seaborn = "*"
 mne = "*"
+sktime = "*"
 
 [dev-packages]
 ipykernel = "*"
