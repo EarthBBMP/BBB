@@ -12,6 +12,7 @@ pandas = "*"
 seaborn = "*"
 mne = "*"
 sktime = "*"
+numba = "*"
 
 [dev-packages]
 ipykernel = "*"
